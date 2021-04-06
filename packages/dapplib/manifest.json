@@ -1,0 +1,9 @@
+{
+    "name": "Joe Demo",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true
+    }
+}
